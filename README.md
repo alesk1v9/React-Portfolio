@@ -9,7 +9,7 @@ This is my portfolio created with React.js. It contains an About page, Portfolio
 ## 🔗 Links
 GITHUB REPO: https://github.com/alesk1v9/React-Portfolio.git
 
-DEPLOYED APP: 
+DEPLOYED APP: https://eloquent-salmiakki-07564b.netlify.app/
 
 ## Screenshots
 
